@@ -31,3 +31,4 @@ jobs:
       - run: mkdocs gh-deploy --force
 ```
 5. view the [https://speaknowpotato.github.io/mkdocs-template/](https://speaknowpotato.github.io/mkdocs-template/)
+
