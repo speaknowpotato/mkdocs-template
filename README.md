@@ -7,7 +7,12 @@ Mkdocs Template using github pages and actions
 1. init repo
 2. create `mkdocs.yml`
 3. set up github pages
-![github page](github_page.png)
+![github pages](github_pages.png)
+
+Source: Deploy from a branch
+
+Branch: gh-pages/root
+
 4. set up github actions
 ![github action](github_action.png)
 ```yaml
