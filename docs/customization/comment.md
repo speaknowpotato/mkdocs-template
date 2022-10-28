@@ -35,7 +35,7 @@ tags:
     
     3. Update `comments.html` [Example](https://github.com/speaknowpotato/mkdocs-template/blob/main/overrides/partials/comments.html)
   
-4. __Enable comment__, add the following lines to each markdown files. 
+4. __Enable comment__, add the following lines to each markdown file that you want to have comment system. 
    ```
    ---
    comments: true
