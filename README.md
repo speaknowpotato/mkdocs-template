@@ -1,6 +1,6 @@
 # Quick Start
 
-This tutorial will help you to build your own mkdocs based documentation website using your own custom domain or github page domain(Example link: https://speaknowpotato.github.io/mkdocs-template/).
+This tutorial will guide you to build your own mkdocs based documentation website using your own custom domain or github page domain(Example link: https://speaknowpotato.github.io/mkdocs-template/) step by step.
 
 - [Quick Start](#quick-start)
   - [Step 1: Use this template](#step-1-use-this-template)
