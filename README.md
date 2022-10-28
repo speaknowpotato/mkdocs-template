@@ -12,6 +12,7 @@ This tutorial will guide you to build your own mkdocs based documentation websit
     - [2. GitHub Pages Setting](#2-github-pages-setting)
     - [3. DNS Setting (Google Domain)](#3-dns-setting-google-domain)
     - [4. Verify domain (Optional)](#4-verify-domain-optional)
+  - [Supported Mkdocs Features](#supported-mkdocs-features)
 
 
 ## Step 1: Use this template
@@ -91,7 +92,9 @@ Go to Google domain and create a TXT record in your DNS configuration.
 Reference: [Verifying your custom domain for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)
 
 
-
-
-
-
+## Supported Mkdocs Features
+- [x] mkdocs jupyter
+- [x] tags
+- [x] git revision
+- [x] search 
+- [ ] comment   
