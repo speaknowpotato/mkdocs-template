@@ -1,12 +1,12 @@
 # Quick Start
 
-This tutorial will help you to build your own mkdocs based documentation website using your own custom domain or github page (Example link: https://speaknowpotato.github.io/mkdocs-template/).
+This tutorial will help you to build your own mkdocs based documentation website using your own custom domain or github page domain(Example link: https://speaknowpotato.github.io/mkdocs-template/).
 
 - [Quick Start](#quick-start)
   - [Step 1: Use this template](#step-1-use-this-template)
   - [Step 2: Run mkdocs gh-deploy](#step-2-run-mkdocs-gh-deploy)
   - [Step 3: Setup GitHub Pages](#step-3-setup-github-pages)
-  - [Step 4: Visit your site](#step-4-visit-your-site)
+  - [Step 4: Visit your site in Github domain](#step-4-visit-your-site-in-github-domain)
   - [[Optional] Step 5: Setup Custom Domain](#optional-step-5-setup-custom-domain)
     - [1.Mkdocs Setting](#1mkdocs-setting)
     - [2. GitHub Pages Setting](#2-github-pages-setting)
@@ -41,7 +41,7 @@ Then click Pages.
 
 Set `Source` to `Deploy from a branch`, and `Branch` to `gh-pages/root`.
 
-## Step 4: Visit your site
+## Step 4: Visit your site in Github domain
 
 Click Visit site.
 

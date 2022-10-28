@@ -34,7 +34,7 @@ jobs:
       - run: pip install mkdocs-git-revision-date-localized-plugin
       - run: mkdocs gh-deploy --force
 ```
-5. view the [https://speaknowpotato.github.io/mkdocs-template/](https://speaknowpotato.github.io/mkdocs-template/)
+5. view the [https://speaknowpotato.github.io/mkdocs-template/](https://speaknowpotato.github.io/mkdocs-template/). It's all set.
 
 
 
