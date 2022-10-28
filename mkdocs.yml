@@ -117,3 +117,9 @@ plugins:
       enable_creation_date: true
       type: timeago  # date, datetime, iso_date, iso_datetime, timeago
   # - meta  # https://squidfunk.github.io/mkdocs-material/reference/#configuration
+
+
+extra:
+  analytics:
+    provider: google
+    property: G-TB2556FVCG
