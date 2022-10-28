@@ -1,0 +1,5 @@
+nav: 
+    - Home: 
+        - Homepage: index.md
+        - Tags: tags.md
+    - Customization: customization
